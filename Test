@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<style>
+body {
+	background-color: #3399ff
+}
+</style>
+
+<body>
+ 
+<marquee> <h1>Welcome to my Gr.10 Tech Website!</h1></marquee>
+ 
+<p>Welcome to my <strong>Independent Research</strong> activity for tech!</p>
+<p>I know I did something very similar last year, but I decided to do this because I hope to learn to code and work with computers and things related so I hope you "enjoy"!</p>
+
+<br><p><span title="I made a website like this last year, but I dont have the files anymore">Move your mouse over me!</span></p>
+
+</body>
+
+<head>
+<body>
+
+<img src="Images/defaultdance.gif" class="centerimage" alt="Image" height="500" width="450">
+
+</body>
+
+<p>For the love of god don't play this with your volume at max</p>
+
+<br><audio controls>
+  <source src="DefaultDanceFortniteEarrape.mp3" type="audio/ogg">
+  <source src="DefaultDanceFortniteEarrape.mp3" type="audio/mpeg">
+</audio>
+
+<head><title>Questionare</title></head>
+<body>
+	<form><br>Do you like my website?<br>
+	<br>First Name: <input type="text" name="firstname"><br>
+	Last Name:  <input type="text" name="lastname"><br>
+
+	<br>Are you:<br>
+	<input type="radio" name="sex" value="male"> Male<br>
+	<input type="radio" name="sex" value="female"> Female<br>
+	<input type="radio" name="sex" value="other"> Other<br>
+
+	<br>I Like:<br>
+	<input type="checkbox" name="That it is Creative!" value="that it is creative!"> That it is Creative!<br>
+	<input type="checkbox" name="That it is Unique!" value="that it is unique!"> That it is Unique!<br>
+	<input type="checkbox" name="That it's the best I've ever seen!" value="it's the best i've ever seen!"> That it's the best I've ever seen!<br>
+
+	<br>Out of 10 starts, how would you rate my website?<br>
+	<select name="favorite">
+		<option value="1" selected="selected">1</option>
+		<option value="2">2</option>
+		<option value="3">3</option>
+		<option value="4">4</option>
+		<option value="5">5</option>
+		<option value="6">6</option>
+		<option value="7">7</option>
+		<option value="8">8</option>
+		<option value="9">9</option>
+		<option value="10">10</option>
+
+	<br><input type="submit" value="Submit the questionare!"/>
+	</form>
+</body>
+
+<h3>One last thing..</h3>
+<h3><a href="Website#2/Website#2.html" target="_blank"
+>Click This..</a></h3>
+</html>
